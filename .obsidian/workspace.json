@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "9b4926ce4a854f0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "015a56fc9841c857",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6c01b064a64ce7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/是微服务架构不香还是云不香？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7d930f8d9bbb4dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3180716be50744c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23af3dd12f38ce49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ddfb28b0c04b97f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20de8e128f2b1aea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ddb80dd85b77f5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "82acaf59f68f186a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dddf8c9b5005f0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023/是微服务架构不香还是云不香？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "727cf46fd81154b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023/是微服务架构不香还是云不香？.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "667926ab3617e1da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ee97bc99c4266ae5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023/是微服务架构不香还是云不香？.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c6c01b064a64ce7e",
+  "lastOpenFiles": [
+    "2023/聊聊 nostr 和 审查.md",
+    "2023/是微服务架构不香还是云不香？.md",
+    "2004/C++ STL string的Copy-On-Write技术.md"
+  ]
+}
